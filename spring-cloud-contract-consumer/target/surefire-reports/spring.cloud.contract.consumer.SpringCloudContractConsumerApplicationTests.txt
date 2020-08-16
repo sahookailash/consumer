@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: spring.cloud.contract.consumer.SpringCloudContractConsumerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.617 s - in spring.cloud.contract.consumer.SpringCloudContractConsumerApplicationTests
